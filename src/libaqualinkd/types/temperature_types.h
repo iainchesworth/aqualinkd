@@ -1,0 +1,10 @@
+#ifndef TEMPERATURE_TYPES_H_
+#define TEMPERATURE_TYPES_H_
+
+enum {
+	FAHRENHEIT,
+	CELSIUS,
+	UNKNOWN
+};
+
+#endif // TEMPERATURE_TYPES_H_
